@@ -30,6 +30,7 @@ To compare confidence in advice between  advisers in 2 stage (Ignored , Chosen) 
 
 # Implemented Results : 
 
-![box](https://user-images.githubusercontent.com/74482108/126053554-2e229741-072b-401f-b6bb-2f653efd0aca.png)
 ![scatter](https://user-images.githubusercontent.com/74482108/126053555-84da150f-5be0-4d51-b59e-097eb5e252ec.png)
+![box](https://user-images.githubusercontent.com/74482108/126053554-2e229741-072b-401f-b6bb-2f653efd0aca.png)
+
 
